@@ -17,4 +17,6 @@
 //  6  => push
 //  git push origin master
 
-// 7
+//  7  => branch
+//  git brach branchNomi     => yangi baranch yaratish
+//  git checkout branchNomi  => biz istagan branchga o`tish 
