@@ -20,3 +20,5 @@
 //  7  => branch
 //  git brach branchNomi     => yangi baranch yaratish
 //  git checkout branchNomi  => biz istagan branchga o`tish 
+
+// 8 =>  Bu code dev branchida ko`rinadi
